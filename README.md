@@ -1,6 +1,7 @@
-# appdemo
+# This is just a demo project to understand GitHub Workflow
 
 A new Flutter project.
+
 
 ## Getting Started
 
